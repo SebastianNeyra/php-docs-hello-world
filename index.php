@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello Azure!";
+echo "Hello Sebastian, Welcome to the homepage!";
 
 
